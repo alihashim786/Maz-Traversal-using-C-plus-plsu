@@ -1,5 +1,4 @@
-// Muhammad Haris 
-// 22i-2479  SE-A
+
 
 #include <iostream>
 #include <iomanip>
